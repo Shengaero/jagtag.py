@@ -7,3 +7,8 @@
 # python venv
 venv
 .venv
+
+# build
+build
+dist
+*.egg-info
